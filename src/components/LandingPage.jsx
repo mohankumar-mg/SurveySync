@@ -20,7 +20,7 @@ function LandingPage() {
 
         <p className="text-xl italic font-semibold text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-purple-500 to-pink-500 mb-16 max-w-3xl mx-auto">
           "Empowering you to collect insights and drive action, one survey at a
-          time."
+          time"
         </p>
 
         {!user && (
