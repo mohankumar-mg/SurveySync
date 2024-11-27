@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="45" fill="#4CAF50" stroke="#333" stroke-width="5"/>
+
+  <!-- 'S' Design -->
+  <path d="M30,30 Q50,10, 70,30 Q50,50, 30,70" stroke="white" stroke-width="8" fill="none"/>
+</svg>
